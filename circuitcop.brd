@@ -1981,14 +1981,14 @@ Your Eurocircuits Team
 </polygon>
 <via x="4.2" y="3.8" extent="1-16" drill="0.35"/>
 <via x="0.6" y="7.1" extent="1-16" drill="0.35"/>
-<via x="0.6" y="10" extent="1-16" drill="0.35"/>
+<via x="2.5" y="10.1" extent="1-16" drill="0.35"/>
 <via x="3.2" y="6.3" extent="1-16" drill="0.35"/>
 <via x="19.5" y="1.7" extent="1-16" drill="0.35"/>
-<via x="24.9" y="0.6" extent="1-16" drill="0.35"/>
+<via x="22.3" y="0.6" extent="1-16" drill="0.35"/>
 <via x="24.9" y="3.2" extent="1-16" drill="0.35"/>
 <via x="24.9" y="6.2" extent="1-16" drill="0.35"/>
 <via x="22.2" y="5.3" extent="1-16" drill="0.35"/>
-<via x="24.9" y="10" extent="1-16" drill="0.35"/>
+<via x="22.8" y="10.1" extent="1-16" drill="0.35"/>
 <via x="16.6" y="0.6" extent="1-16" drill="0.35"/>
 </signal>
 </signals>
