@@ -1,12 +1,17 @@
 Qty,Qty to buy,Value,Device,Package,Parts,Description,Ref Farnell
-1,,,R-US_R1206,R1206,R2,Shunt resistor,
+1,1,60m,R-US_R1206,R1206,R2,Shunt resistor 0.5A,2483561
+1,1,30m,R-US_R1206,R1206,R2,Shunt resistor 1A,2145295
+1,1,15m,R-US_R1206,R1206,R2,Shunt resistor 2A,2145288
+1,1,60m,R-US_R1206,R1206,R2,Shunt resistor 4A,
+1,1,60m,R-US_R1206,R1206,R2,Shunt resistor 8A,
+1,1,m,R-US_R1206,R1206,R2,Shunt resistor,2145295
 2,0,100R,R-US_R0805,R0805,R7; R8,Resistor,N/A
 1,0,100k,R-US_R0805,R0805,R1,Resistor,N/A
-4,4,100n,C-EUC0805,C0805,C1; C2; C3; C4,Capacitor,
+4,4,100n,C-EUC0805,C0805,C1; C2; C3; C4,Capacitor,1759166
 2,0,10k,R-US_R0805,R0805,R9; R10,Resistor,N/A
 1,1,1M,R-US_R0805,R0805,R12,Resistor, 2447596
 2,0,1k,R-US_R0805,R0805,R3; R14,Resistor,N/A
-2,2,1u,C-EUC0805,C0805,C5; C6,Capacitor,
+2,2,1u,C-EUC0805,C0805,C5; C6,Capacitor,1828853
 1,0,2.2k,R-US_R0805,R0805,R11,Resistor,N/A
 1,1,3.3M,R-US_R0805,R0805,R13,Resistor, 2694133
 3,0,33k,R-US_R0805,R0805,R4; R5; R6,Resistor,N/A
