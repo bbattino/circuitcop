@@ -2,8 +2,8 @@ Qty,Qty to buy,Value,Device,Package,Parts,Description,Ref Farnell
 1,1,60m,R-US_R1206,R1206,R2,Shunt resistor 0.5A,2483561
 1,1,30m,R-US_R1206,R1206,R2,Shunt resistor 1A,2145295
 1,1,15m,R-US_R1206,R1206,R2,Shunt resistor 2A,2145288
-1,1,60m,R-US_R1206,R1206,R2,Shunt resistor 4A,
-1,1,60m,R-US_R1206,R1206,R2,Shunt resistor 8A,
+1,1,6m,R-US_R1206,R1206,R2,Shunt resistor 5A,2550876
+1,1,3m,R-US_R1206,R1206,R2,Shunt resistor 10A,2332214
 1,1,m,R-US_R1206,R1206,R2,Shunt resistor,2145295
 2,0,100R,R-US_R0805,R0805,R7; R8,Resistor,N/A
 1,0,100k,R-US_R0805,R0805,R1,Resistor,N/A
